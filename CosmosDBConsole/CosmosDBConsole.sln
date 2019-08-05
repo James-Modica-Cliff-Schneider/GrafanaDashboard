@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CosmosDBConsole", "CosmosDBConsole\CosmosDBConsole.csproj", "{07DA4B72-DE08-4ACE-96E4-6253C7CA5EA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataRetrevalTest", "DBTest\DataRetrevalTest.csproj", "{4B22FA62-ACB9-4873-B619-0A3C7AC832A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07DA4B72-DE08-4ACE-96E4-6253C7CA5EA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07DA4B72-DE08-4ACE-96E4-6253C7CA5EA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07DA4B72-DE08-4ACE-96E4-6253C7CA5EA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07DA4B72-DE08-4ACE-96E4-6253C7CA5EA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B22FA62-ACB9-4873-B619-0A3C7AC832A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B22FA62-ACB9-4873-B619-0A3C7AC832A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B22FA62-ACB9-4873-B619-0A3C7AC832A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B22FA62-ACB9-4873-B619-0A3C7AC832A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A06BD0F-73CF-49F4-9B37-19DC6E1E3898}
+	EndGlobalSection
+EndGlobal

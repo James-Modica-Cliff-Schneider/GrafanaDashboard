@@ -1,0 +1,4 @@
+{
+  "StorageConnectionString": "DefaultEndpointsProtocol=https;AccountName=ppwhdashboarddata;AccountKey=qNa8ePVxbBbYXfOnaopy963wqQfXXhBOktv8yHVSvLBsj3o2xN2+z1vhXnc4hdknatOVWX2t0hlEyPYSfRSqEQ==;EndpointSuffix=core.windows.net",
+  "EcoIQConnectionString": "TableEndpoint=https://prodwowhecoiqdata.table.core.windows.net/;SharedAccessSignature=sv=2018-03-28&ss=t&srt=sco&sp=rl&st=2019-07-19T09%3A47%3A44Z&se=2019-12-20T04%3A47%3A00Z&sig=T%2FBY2N3EHKjqBGm1JYNmHLsVNu8BmfeAmQ5u9jVIrWQ%3D"
+}

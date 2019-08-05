@@ -1,0 +1,12 @@
+C:\Users\James\source\repos\CosmosDBConsole\CosmosDBConsole\bin\Debug\netcoreapp2.1\CosmosDBConsole.deps.json
+C:\Users\James\source\repos\CosmosDBConsole\CosmosDBConsole\bin\Debug\netcoreapp2.1\CosmosDBConsole.runtimeconfig.json
+C:\Users\James\source\repos\CosmosDBConsole\CosmosDBConsole\bin\Debug\netcoreapp2.1\CosmosDBConsole.runtimeconfig.dev.json
+C:\Users\James\source\repos\CosmosDBConsole\CosmosDBConsole\bin\Debug\netcoreapp2.1\CosmosDBConsole.dll
+C:\Users\James\source\repos\CosmosDBConsole\CosmosDBConsole\obj\Debug\netcoreapp2.1\CosmosDBConsole.csproj.CoreCompileInputs.cache
+C:\Users\James\source\repos\CosmosDBConsole\CosmosDBConsole\obj\Debug\netcoreapp2.1\CosmosDBConsole.AssemblyInfoInputs.cache
+C:\Users\James\source\repos\CosmosDBConsole\CosmosDBConsole\obj\Debug\netcoreapp2.1\CosmosDBConsole.AssemblyInfo.cs
+C:\Users\James\source\repos\CosmosDBConsole\CosmosDBConsole\bin\Debug\netcoreapp2.1\CosmosDBConsole.pdb
+C:\Users\James\source\repos\CosmosDBConsole\CosmosDBConsole\obj\Debug\netcoreapp2.1\CosmosDBConsole.dll
+C:\Users\James\source\repos\CosmosDBConsole\CosmosDBConsole\obj\Debug\netcoreapp2.1\CosmosDBConsole.pdb
+C:\Users\James\source\repos\CosmosDBConsole\CosmosDBConsole\bin\Debug\netcoreapp2.1\Settings.json
+C:\Users\James\source\repos\CosmosDBConsole\CosmosDBConsole\obj\Debug\netcoreapp2.1\CosmosDBConsole.csprojAssemblyReference.cache
